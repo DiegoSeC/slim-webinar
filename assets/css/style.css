@@ -1,0 +1,62 @@
+.container {
+	width: 800px;
+	height: 594px;
+	position: relative;
+	margin: 0 auto;
+	background: url(../img/bg.jpg);
+	font-size: 12px;
+}
+
+.form-controller {
+	position: absolute;
+	border: 0;
+	background: transparent;
+	height: 16px;
+}
+
+.name {
+	left: 211px;
+	top: 189px;
+	width: 525px;
+}
+
+.age {
+	left: 211px;
+	top: 233px;
+	width: 98px;
+}
+
+.email {
+	top: 233px;
+	left: 428px;
+	width: 314px;
+}
+
+.country {
+	top: 280px;
+	left: 211px;
+	width: 198px;
+}
+
+.profesion {
+	left: 211px;
+	top: 324px;
+	width: 196px;
+}
+
+.interes {
+	left: 211px;
+	top: 367px;
+	height: 56px;
+	width: 464px;
+}
+
+.submit {
+	top: 470px;
+	left: 290px;
+	height: 57px;
+	width: 310px;
+	overflow: hidden;
+	text-indent: 9999px;
+	cursor: pointer;
+}
